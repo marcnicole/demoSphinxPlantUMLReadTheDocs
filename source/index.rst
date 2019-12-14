@@ -11,7 +11,7 @@ Welcome to Demo Sphinx PlantUml ReadTheDoc's documentation!
    :glob:
 
    */index
-   *
+
 
 
 

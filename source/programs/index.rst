@@ -1,0 +1,7 @@
+Programs
+========
+
+.. toctree::
+   :glob:
+
+   */index
